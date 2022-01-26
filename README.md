@@ -4,9 +4,9 @@
 
 Channel lists：
 
-- `https://raw.githubusercontent.com/sli1989/iptv-cn/main/tv-ipv4-2112.m3u`
+- `https://raw.githubusercontent.com/sli1989/iptv-cn/main/iptv-wuhan.m3u`
 
-- `https://cdn.jsdelivr.net/gh/sli1989/iptv-cn@latest/tv-ipv4-2112.m3u`
+- `https://cdn.jsdelivr.net/gh/sli1989/iptv-cn@latest/iptv-wuhan.m3u`
 
 Guide file ：
 
