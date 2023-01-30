@@ -1,17 +1,20 @@
 # iptv-cn
 
-`iptv-wuhan` 为3M版本，`iptv-wuhan` 为8M版本。内置通用 Guide file xml 链接 （`http://epg.51zmt.top:8000/e.xml`） 和图标，方便后期维护。
+`iptv-wuhan` 内置通用 Guide file xml 链接 （`http://epg.51zmt.top:8000/e.xml`） 和图标，方便后期维护。
 
 Channel lists：
 
-- `https://raw.githubusercontent.com/sli1989/iptv-cn/main/iptv-wuhan.m3u`
-
-- `https://cdn.jsdelivr.net/gh/sli1989/iptv-cn@latest/iptv-wuhan.m3u`
+- `https://raw.iqiq.io/sli1989/iptv-cn/main/iptv-wuhan.m3u`
+- `https://raw.kgithub.com/sli1989/iptv-cn/main/iptv-wuhan.m3u`
+- `https://fastly.jsdelivr.net/gh/sli1989/iptv-cn@main/iptv-wuhan.m3u`
+- `https://cdn.staticaly.com/gh/sli1989/iptv-cn/main/iptv-wuhan.m3u`
+- `https://raw.fastgit.org/sli1989/iptv-cn/main/iptv-wuhan.m3u`
+- `https://cdn.staticaly.com/gh/sli1989/iptv-cn/main/iptv-wuhan.m3u`
+- `https://cdn.jsdelivr.net/gh/sli1989/iptv-cn@main/iptv-wuhan.m3u`
 
 Guide file ：
 
 - `http://epg.51zmt.top:8000/e.xml`
-
 - `https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml`
 
 ## Ref
